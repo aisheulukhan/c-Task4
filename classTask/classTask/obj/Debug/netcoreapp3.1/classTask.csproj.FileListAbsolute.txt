@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Tasks\classTask\classTask\bin\Debug\netcoreapp3.1\classTask.exe
+C:\Users\HP\Desktop\Tasks\classTask\classTask\bin\Debug\netcoreapp3.1\classTask.deps.json
+C:\Users\HP\Desktop\Tasks\classTask\classTask\bin\Debug\netcoreapp3.1\classTask.runtimeconfig.json
+C:\Users\HP\Desktop\Tasks\classTask\classTask\bin\Debug\netcoreapp3.1\classTask.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Tasks\classTask\classTask\bin\Debug\netcoreapp3.1\classTask.dll
+C:\Users\HP\Desktop\Tasks\classTask\classTask\bin\Debug\netcoreapp3.1\classTask.pdb
+C:\Users\HP\Desktop\Tasks\classTask\classTask\obj\Debug\netcoreapp3.1\classTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Tasks\classTask\classTask\obj\Debug\netcoreapp3.1\classTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Tasks\classTask\classTask\obj\Debug\netcoreapp3.1\classTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Tasks\classTask\classTask\obj\Debug\netcoreapp3.1\classTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\Tasks\classTask\classTask\obj\Debug\netcoreapp3.1\classTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Tasks\classTask\classTask\obj\Debug\netcoreapp3.1\classTask.dll
+C:\Users\HP\Desktop\Tasks\classTask\classTask\obj\Debug\netcoreapp3.1\classTask.pdb
+C:\Users\HP\Desktop\Tasks\classTask\classTask\obj\Debug\netcoreapp3.1\classTask.genruntimeconfig.cache
