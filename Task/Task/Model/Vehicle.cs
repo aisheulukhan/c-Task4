@@ -16,7 +16,9 @@ namespace Task.Model
 
         public void About()
         {
-            Console.WriteLine($"{cycle} {driveWay}");
+            Console.WriteLine($"{cycle} {driveWay} {color} {passengerCount} {driveTime} {getSpeed} {model}");
+
+
         }
         public void Getspeed()
         {

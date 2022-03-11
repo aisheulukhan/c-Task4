@@ -11,27 +11,27 @@ namespace Task.Model
         {
             this.cycle = cycle;
         }
-        public bus(int cycle, int driveWay)
+        public bus(int cycle, int driveWay) : this(cycle)
         {
             this.driveWay = driveWay;
         }
-        public bus(string color, int driveWay)
+        public bus(int cycle, int driveWay, string color) : this(cycle, driveWay)
         {
             this.color = color;
         }
-        public bus(int passengerCount, int driveWay, string color)
+        public bus(int cycle, int driveWay, string color, int passengerCount) : this(cycle, driveWay, color)
         {
             this.passengerCount = passengerCount;
         }
-        public bus(int driveTime, int passengerCount, int driveWay)
+        public bus(int cycle, int driveWay, string color, int passengerCount, int driveTime) : this(cycle, driveWay, color, passengerCount)
         {
             this.driveTime = driveTime;
         }
-        public bus(int getSpeed, int driveTime, int passengerCount, int driveWay)
+        public bus(int cycle, int driveWay, string color, int passengerCount, int driveTime, int getSpeed) : this(cycle, driveWay, color, passengerCount, driveTime)
         {
             this.getSpeed = getSpeed;
         }
-        public bus(string model, int getSpeed, int driveTime, int passengerCount)
+        public bus(int cycle, int driveWay, string color, int passengerCount, int driveTime, int getSpeed, string model) : this(cycle, driveWay, color, passengerCount, driveTime, getSpeed)
         {
             this.model = model;
         }

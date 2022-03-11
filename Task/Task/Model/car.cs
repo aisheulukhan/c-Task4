@@ -16,23 +16,23 @@ namespace Task.Model
         {
             this.driveWay = driveWay;
         }
-        public car(string color, int driveWay)
+        public car(int cycle, int driveWay,string color):this (cycle,driveWay)
         {
             this.color = color;
         }
-        public car(int passengerCount, int driveWay, string color)
+        public car(int cycle, int driveWay, string color, int passengerCount):this(cycle, driveWay, color)
         {
             this.passengerCount = passengerCount;
         }
-        public car(int driveTime, int passengerCount, int driveWay)
+        public car(int cycle, int driveWay, string color, int passengerCount, int driveTime):this(cycle, driveWay, color,passengerCount)
         {
             this.driveTime = driveTime;
         }
-        public car(int getSpeed, int driveTime, int passengerCount, int driveWay)
+        public car(int cycle, int driveWay, string color, int passengerCount, int driveTime, int getSpeed):this(cycle, driveWay, color, passengerCount, driveTime)
         {
             this.getSpeed = getSpeed;
         }
-        public car(string model, int getSpeed, int driveTime, int passengerCount)
+        public car(int cycle, int driveWay, string color, int passengerCount, int driveTime, int getSpeed,string model):this(cycle, driveWay, color, passengerCount, driveTime,getSpeed)
         {
             this.model = model;
         }

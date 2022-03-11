@@ -6,7 +6,10 @@ namespace Task.Model
     {
         static void Main(string[] args)
         {
-            car c1 = new car(4, 60);
+            car c1 = new car(4, 60,"red",5,6000,60);
+            
+            
+            
             c1.About();
             c1.model = "BMW";
             Console.WriteLine(c1.model);
